@@ -152,5 +152,5 @@ This project helped me gain practical experience in:
 
 ## 👨‍💻 Developer
 
-**Rifat Bin Tayub**
-🔐 Cyber Security Enthusiast | 🐍 Python Learner | 🚀 Exploring Ethical Hacking & Cyber Defense
+**Rifat Bin Tayub**  
+Cyber Security Enthusiast | Python Learner | Exploring Ethical Hacking & Cyber Defense
