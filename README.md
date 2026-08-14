@@ -178,6 +178,7 @@ This system was collaboratively engineered by:
 * Cyber Security Enthusiast | Python Learner | Exploring Ethical Hacking & Cyber Defense
 * GitHub: [@rifatb794](https://github.com/rifatb794)
 
+
 **Sumiaya Afrin**
 * **Role:** GUI Development (Tkinter), Security Risk Monitoring & Automated Logging/Reporting
 * Information Security Enthusiast | Python Programmer | Passionate about Penetration Testing & Cyber Threats
